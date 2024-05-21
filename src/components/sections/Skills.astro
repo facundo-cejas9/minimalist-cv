@@ -1,0 +1,39 @@
+---
+import Sections from "../Sections.astro"
+import { skills } from '../../cv.json'
+---
+
+<Sections title="Skills">
+    <ul class="skill">
+        {
+            skills.map((skill) => {
+                return (
+                <li>{ skill.name }</li>
+                )
+            })
+        }
+    </ul>
+</Sections>
+
+
+<style>
+    .skill {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        padding:0;
+        gap: 8px;
+    }
+
+    li {
+        background-color: #eee;
+        color: rgb(0, 0, 0);
+        padding: 0.2rem 0.6rem;
+        border-radius: .3rem;
+        font-weight: 600;
+        font-size: .8rem;
+        text-decoration: none;
+        list-style-type: none;
+        font-family: monospace;
+    }
+</style>

@@ -1,0 +1,244 @@
+{
+    "basics": {
+        "name": "Facundo Cejas",
+        "label": "Desarrollador de Software",
+        "image": "https://avatars.githubusercontent.com/u/63550423?s=400&u=ba5262403ed95829ff0e4ca2126d387edf51f229&v=4",
+        "email": "cejasjfacundo@gmail.com",
+        "phone": "+(54)351-155072901",
+        "url": "https://johndoe.com",
+        "summary": "Desarrollador autodidacta con una sólida formación en aplicaciones web y de escritorio. Mi trayectoria profesional se ha forjado a través de un aprendizaje autodidacta y una experiencia práctica en el desarrollo de software. Poseo un sólido conocimiento en JavaScript, React, NextJS y otras herramientas relevantes.",
+        "location": {
+            "address": "Aguirre Cámara 1115",
+            "postalCode": "5186",
+            "city": "Córdoba",
+            "countryCode": "AR",
+            "region": "Argentina"
+        },
+        "profiles": [
+            {
+                "network": "X",
+                "username": "alojen",
+                "url": "https://x.com/alojenN"
+            },
+            {
+                "network": "Linkedin",
+                "username": "Facundo Cejas",
+                "url": "https://www.linkedin.com/in/facundo-cejas9/"
+            },
+            {
+                "network": "GitHub",
+                "username": "Facundo Cejas",
+                "url": "https://github.com/facundo-cejas9/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "organization": "Alkemy",
+            "position": "Pasantia frontend",
+            "url": "https://organization.com/",
+            "startDate": "2022-08-30",
+            "endDate": "2022-12-01",
+            "summary": " Mi experiencia laboral ha sido principalmente enfocada en el desarrollo individual, sin embargo, he tenido una valiosa experiencia trabajando en equipo durante una aceleración específica. Durante esta etapa, participé en una simulación de proyecto donde trabajamos en equipo durante tres meses en la creación de una aplicación."
+        }
+    ]
+    ,
+    
+    "certificates": [
+        {
+            "name": "JavaScript Algorithms and Data Structure.",
+            "date": "2022",
+            "issuer": "FreeCodeCamp",
+            "url": "https://certificate.com"
+        },
+        {
+            "name": "Responsive Web Design.",
+            "date": "2022",
+            "issuer": "FreeCodeCamp",
+            "url": "https://certificate.com"
+        },
+        {
+            "name": "Desarrollo Web (Desarrollo web completo, html, AJAX, PHP, JS).",
+            "date": "2022",
+            "issuer": "Udemy",
+            "url": "https://certificate.com"
+        },
+        {
+            "name": "React de cero a Experto(React hooks and MERN).",
+            "date": "2022",
+            "issuer": "Udemy",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+          "name": "HTML",
+          "level": "Master",
+          "keywords": [
+            "Desarrollo Web", "Frontend"
+          ]
+        },
+        {
+          "name": "CSS",
+          "level": "Master",
+          "keywords": [
+            "Desarrollo Web", "Frontend", "Diseño Responsive"
+          ]
+        },
+        {
+          "name": "JavaScript",
+          "level": "Master",
+          "keywords": [
+            "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+          ]
+        },
+        {
+          "name": "Tailwind",
+          "level": "Avanzado",
+          "keywords": [
+            "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+          ]
+        },
+        {
+          "name": "TypeScript",
+          "level": "Avanzado",
+          "keywords": [
+            "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+          ]
+        },
+        {
+          "name": "Node",
+          "level": "Avanzado",
+          "keywords": [
+            "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+          ]
+        },
+        {
+          "name": "MySQL",
+          "level": "Avanzado",
+          "keywords": [
+            "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+          ]
+        },
+        {
+          "name": "Git",
+          "level": "Avanzado",
+          "keywords": [
+            "Control de Versiones", "Colaboración", "Código Fuente"
+          ]
+        },
+        {
+          "name": "GitHub",
+          "level": "Avanzado",
+          "keywords": [
+            "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+          ]
+        },
+        {
+          "name": "Next.js",
+          "level": "Avanzado",
+          "keywords": [
+            "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+          ]
+        },
+        {
+          "name": "React",
+          "level": "Avanzado",
+          "keywords": [
+            "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+          ]
+        }
+      ],
+      "languages": [
+        {
+          "language": "Spanish",
+          "fluency": "Native speaker"
+        },
+        {
+          "language": "English",
+          "fluency": "Advanced"
+        }
+      ],
+      "interests": [{
+        "name": "Wildlife",
+        "keywords": [
+          "Ferrets",
+          "Unicorns"
+        ]
+      }],
+    "projects": [
+        {
+          "name": "Bienes Raíces Blog",
+          "isActive": true,
+          "description": "Blog y landing page sobre venta de propiedades.",
+          "tecnologies": [
+            "HTML",
+            "CSS",
+            "Tailwind",
+            "JavaScript"
+          ],
+          "url": "https://testingjs.netlify.app/"
+        },
+        {
+          "name": "Encriptador",
+          "isActive": true,
+          "description": "Retos de programación en JavaScript del curso de la Academia Allura.",
+          "tecnologies": [
+            "HTML",
+            "CSS",
+            "Tailwind",
+            "JavaScript"
+          ],
+          "url": "https://fanciful-kashata-73eef3.netlify.app/"
+        },
+        {
+            "name": "Cotizador",
+            "isActive": true,
+            "description": " cotizador que te proporciona el precio actualizado del dólar a pesos argentinos.",
+            "tecnologies": [
+              "HTML",
+              "CSS Modules",
+              "JavaScript",
+              "React"
+            ],
+            "url": "https://kaleidoscopic-salamander-be5b2c.netlify.app/"
+          },
+          {
+            "name": "AlkyBank",
+            "isActive": false,
+            "description": " Proyecto realizado en la aceleración de Alkemy de ReactJS, la cual consistió en armar un dashboard para una simulación de un banco.",
+            "tecnologies": [
+              "HTML",
+              "CSS Modules",
+              "TypeScript",
+              "React"
+            ]
+           
+          },
+
+          {
+            "name": "Jounrnal App",
+            "isActive": true,
+            "description": " Permite crear notas y recordatorios estilo agenda, además de la capacidad de subir imágenes. Se utilizó React y MaterialUI para los estilos.",
+            "tecnologies": [
+              "HTML",
+              "Material UI",
+              "TypeScript",
+              "React"
+            ],
+            "url": "https://journalv2.netlify.app/"
+        
+          }
+
+          
+      ]
+}

@@ -1,0 +1,37 @@
+---
+import Sections from "../Sections.astro"
+import { certificates } from '../../cv.json'
+---
+
+<Sections title="Formación">
+    <ul>
+        {
+            certificates.map(({ name, issuer }) => {
+                return (
+                <p>{ name }</p>
+                <span>{ issuer }</span>
+                )
+            })
+            
+        }
+    </ul>
+   
+</Sections>
+
+<style>
+    ul {
+        padding: 0
+    }
+    p {
+        font-size: .8rem;
+        font-family: monospace;
+        margin: 0;
+        margin-top: 1rem
+    }
+    span {
+        font-size: .7rem;
+        color: #999;
+        font-family: monospace;
+        
+    }
+</style>
